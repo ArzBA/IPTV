@@ -1,0 +1,584 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="La 1 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="España",La 1 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/22635
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="La 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="España",La 1 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2
+#EXTINF:-1 tvg-id="la1.es" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png" group-title="España",La 1
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/3
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="La 2 1080" tvg-logo="http://psxbyzlogos.one/iconos/la2hd.png" group-title="España",La 2 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/4
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="La 2 HD" tvg-logo="http://psxbyzlogos.one/iconos/la2hd.png" group-title="España",La 2 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/5
+#EXTINF:-1 tvg-id="la2.es" tvg-name="La 2" tvg-logo="http://psxbyzlogos.one/iconos/la2sd.png" group-title="España",La 2
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/6
+#EXTINF:-1 tvg-id="ANTENA 3 FHD" tvg-name="Antena 3 1080" tvg-logo="http://psxbyzlogos.one/iconos/a3hd.png" group-title="España",Antena 3 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/7
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="Antena 3 HD" tvg-logo="http://psxbyzlogos.one/iconos/a3hd.png" group-title="España",Antena 3 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/8
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="Antena 3" tvg-logo="http://psxbyzlogos.one/iconos/a3sd.png" group-title="España",Antena 3
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/9
+#EXTINF:-1 tvg-id="CUATRO FHD" tvg-name="Cuatro 1080" tvg-logo="http://psxbyzlogos.one/iconos/cuatrohd.png" group-title="España",Cuatro 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/10
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="Cuatro HD" tvg-logo="http://psxbyzlogos.one/iconos/cuatrohd.png" group-title="España",Cuatro HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/11
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="Cuatro" tvg-logo="http://psxbyzlogos.one/iconos/cuatrosd.png" group-title="España",Cuatro
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/12
+#EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="Telecinco 1080" tvg-logo="http://psxbyzlogos.one/iconos/t5hd.png" group-title="España",Telecinco 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/13
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="Telecinco HD" tvg-logo="http://psxbyzlogos.one/iconos/t5hd.png" group-title="España",Telecinco HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/14
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="Telecinco" tvg-logo="http://psxbyzlogos.one/iconos/t5sd.png" group-title="España",Telecinco
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/15
+#EXTINF:-1 tvg-id="lasxta.es" tvg-name="La Sexta 1080" tvg-logo="http://psxbyzlogos.one/iconos/sextahd.png" group-title="España",La Sexta 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/16
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="La Sexta HD" tvg-logo="http://psxbyzlogos.one/iconos/sextahd.png" group-title="España",La Sexta HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/17
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="La Sexta" tvg-logo="http://psxbyzlogos.one/iconos/sextasd.png" group-title="España",La Sexta
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/18
+#EXTINF:-1 tvg-id="Canal Sur HD." tvg-name="Canal Sur HD 1080" tvg-logo="http://psxbyzlogos.one/iconos/csurhd.png" group-title="España",Canal Sur HD 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/173
+#EXTINF:-1 tvg-id="Canal Sur HD." tvg-name="Canal Sur HD" tvg-logo="http://psxbyzlogos.one/iconos/csurhd.png" group-title="España",Canal Sur HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/174
+#EXTINF:-1 tvg-id="AndalucíaTV" tvg-name="Andalucia TV" tvg-logo="http://psxbyzlogos.one/iconos/andatv.png" group-title="España",Andalucia TV
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/175
+#EXTINF:-1 tvg-id="0.es" tvg-name="#0 1080" tvg-logo="http://psxbyzlogos.one/iconos/cerofhd.png" group-title="España",#0 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/19
+#EXTINF:-1 tvg-id="#0 HD" tvg-name="#0 HD" tvg-logo="http://psxbyzlogos.one/iconos/cerofhd.png" group-title="España",#0 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/20
+#EXTINF:-1 tvg-id="#0.es" tvg-name="#0" tvg-logo="http://psxbyzlogos.one/iconos/cerofhd.png" group-title="España",#0
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/21
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24h" tvg-logo="http://psxbyzlogos.one/iconos/24ho.png" group-title="España",24h
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/22
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson 24H" tvg-logo="https://img.favpng.com/5/25/17/bart-simpson-the-simpsons-hit-run-marge-simpson-logo-png-favpng-TjV7pFiXRGcSqGY7DgFYWsXN5.jpg" group-title="España",Los Simpson 24H
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/13618
+#EXTINF:-1 tvg-id="" tvg-name="La que se avecina 24H" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71mcUfuxC7L._SR600,315_SCLZZZZZZZ_.png" group-title="España",La que se avecina 24H
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/13616
+#EXTINF:-1 tvg-id="M.ESTRENOS FHD" tvg-name="Movistar Estrenos 1080" tvg-logo="http://psxbyzlogos.one/iconos/estrenossd.png" group-title="España",Movistar Estrenos 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/24
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="Movistar Estrenos HD" tvg-logo="http://psxbyzlogos.one/iconos/estrenossd.png" group-title="España",Movistar Estrenos HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/23
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="Movistar Estrenos" tvg-logo="http://psxbyzlogos.one/iconos/estrenossd.png" group-title="España",Movistar Estrenos
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/25
+#EXTINF:-1 tvg-id="M. ACCION FHD" tvg-name="Movistar Accion 1080" tvg-logo="http://psxbyzlogos.one/iconos/accionsd.png" group-title="España",Movistar Accion 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/26
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="Movistar Accion HD" tvg-logo="http://psxbyzlogos.one/iconos/accionsd.png" group-title="España",Movistar Accion HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/27
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="Movistar Accion" tvg-logo="http://psxbyzlogos.one/iconos/accionsd.png" group-title="España",Movistar Accion
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/28
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="Movistar Comedia 1080" tvg-logo="http://psxbyzlogos.one/iconos/comediasd.png" group-title="España",Movistar Comedia 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/29
+#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="Movistar Comedia HD" tvg-logo="http://psxbyzlogos.one/iconos/comediasd.png" group-title="España",Movistar Comedia HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/30
+#EXTINF:-1 tvg-id="M.COMEDIA" tvg-name="Movistar Comedia" tvg-logo="http://psxbyzlogos.one/iconos/comediasd.png" group-title="España",Movistar Comedia
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/31
+#EXTINF:-1 tvg-id="mdrama.es" tvg-name="Movistar Drama 1080" tvg-logo="http://psxbyzlogos.one/iconos/dramasd.png" group-title="España",Movistar Drama 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/32
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="Movistar Drama HD" tvg-logo="http://psxbyzlogos.one/iconos/dramasd.png" group-title="España",Movistar Drama HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/33
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="Movistar Drama" tvg-logo="http://psxbyzlogos.one/iconos/dramasd.png" group-title="España",Movistar Drama
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/34
+#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="Movistar Cine Español" tvg-logo="http://psxbyzlogos.one/iconos/cineesp.png" group-title="España",Movistar Cine Español
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/37
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="Movistar CineDoc&Roll 1080" tvg-logo="http://psxbyzlogos.one/iconos/cinedochd.png" group-title="España",Movistar CineDoc&Roll 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/38
+#EXTINF:-1 tvg-id="M.CineDocRoll" tvg-name="Movistar CineDoc&Roll  HD" tvg-logo="http://psxbyzlogos.one/iconos/cinedochd.png" group-title="España",Movistar CineDoc&Roll  HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/39
+#EXTINF:-1 tvg-id="M.CineDocRoll" tvg-name="Movistar CineDoc&Roll" tvg-logo="http://psxbyzlogos.one/iconos/cinedochd.png" group-title="España",Movistar CineDoc&Roll
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/40
+#EXTINF:-1 tvg-id="Movistar Disney +" tvg-name="Movistar Disney + 1080" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2020/03/movistar-disney-canal-pruebas.jpg" group-title="España",Movistar Disney + 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/15894
+#EXTINF:-1 tvg-id="Movistar Disney +" tvg-name="Movistar Disney +" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2020/03/movistar-disney-canal-pruebas.jpg" group-title="España",Movistar Disney +
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/18372
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="Movistar Series 1080" tvg-logo="http://psxbyzlogos.one/iconos/serieshd.png" group-title="España",Movistar Series 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/44
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="Movistar Series  HD" tvg-logo="http://psxbyzlogos.one/iconos/serieshd.png" group-title="España",Movistar Series  HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/45
+#EXTINF:-1 tvg-id="M. SERIES" tvg-name="Movistar Series" tvg-logo="http://psxbyzlogos.one/iconos/serieshd.png" group-title="España",Movistar Series
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/46
+#EXTINF:-1 tvg-id="mseriesmania.es" tvg-name="Movistar Seriesmania 1080" tvg-logo="http://psxbyzlogos.one/iconos/seriesmania.png" group-title="España",Movistar Seriesmania 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/47
+#EXTINF:-1 tvg-id="M.Seriesmania HD" tvg-name="Movistar Seriesmania HD" tvg-logo="http://psxbyzlogos.one/iconos/seriesmania.png" group-title="España",Movistar Seriesmania HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/48
+#EXTINF:-1 tvg-id="M.Seriesmania" tvg-name="Movistar Seriesmania" tvg-logo="http://psxbyzlogos.one/iconos/seriesmania.png" group-title="España",Movistar Seriesmania
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/49
+#EXTINF:-1 tvg-id="BOM" tvg-name="Bom Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1200px-Logo-bom.svg.png" group-title="España",Bom Cine
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/21168
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="A3 Series 1080" tvg-logo="http://psxbyzlogos.one/iconos/a3series.png" group-title="España",A3 Series 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/51
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="A3 Series HD" tvg-logo="http://psxbyzlogos.one/iconos/a3series.png" group-title="España",A3 Series HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/52
+#EXTINF:-1 tvg-id="FOX FHD" tvg-name="Fox 1080" tvg-logo="http://psxbyzlogos.one/iconos/foxhd.png" group-title="España",Fox 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/53
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="Fox HD" tvg-logo="http://psxbyzlogos.one/iconos/foxhd.png" group-title="España",Fox HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/54
+#EXTINF:-1 tvg-id="fox.es" tvg-name="Fox" tvg-logo="http://psxbyzlogos.one/iconos/foxsd.png" group-title="España",Fox
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/55
+#EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="Fox Life 1080" tvg-logo="http://psxbyzlogos.one/iconos/foxlifehd.png" group-title="España",Fox Life 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/56
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="Fox Life HD" tvg-logo="http://psxbyzlogos.one/iconos/foxlifehd.png" group-title="España",Fox Life HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/57
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="Fox Life" tvg-logo="http://psxbyzlogos.one/iconos/foxlsd.png" group-title="España",Fox Life
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/58
+#EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN 1080" tvg-logo="http://psxbyzlogos.one/iconos/axnhd.png" group-title="España",AXN 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/59
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://psxbyzlogos.one/iconos/axnhd.png" group-title="España",AXN HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/60
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="http://psxbyzlogos.one/iconos/axnsd.png" group-title="España",AXN
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/61
+#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN White 1080" tvg-logo="http://psxbyzlogos.one/iconos/axnwhd.png" group-title="España",AXN White 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/62
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN White HD" tvg-logo="http://psxbyzlogos.one/iconos/axnwhd.png" group-title="España",AXN White HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/63
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN White" tvg-logo="http://psxbyzlogos.one/iconos/axnwsd.png" group-title="España",AXN White
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/64
+#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC 1080" tvg-logo="http://psxbyzlogos.one/iconos/amchd.png" group-title="España",AMC 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/65
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://psxbyzlogos.one/iconos/amchd.png" group-title="España",AMC HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/66
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="http://psxbyzlogos.one/iconos/amc.png" group-title="España",AMC
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/67
+#EXTINF:-1 tvg-id="HOLLYWOOD FHD" tvg-name="Hollywood 1080" tvg-logo="http://psxbyzlogos.one/iconos/hollyhd.png" group-title="España",Hollywood 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/68
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="Hollywood HD" tvg-logo="http://psxbyzlogos.one/iconos/hollyhd.png" group-title="España",Hollywood HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/69
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="Hollywood" tvg-logo="http://psxbyzlogos.one/iconos/hollysd.png" group-title="España",Hollywood
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/70
+#EXTINF:-1 tvg-id="CALLE 13 FHD" tvg-name="Calle 13 1080" tvg-logo="http://psxbyzlogos.one/iconos/calle13hd.png" group-title="España",Calle 13 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/71
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="Calle 13 HD" tvg-logo="http://psxbyzlogos.one/iconos/calle13hd.png" group-title="España",Calle 13 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/72
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="Calle 13" tvg-logo="http://psxbyzlogos.one/iconos/calle13sd.png" group-title="España",Calle 13
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/73
+#EXTINF:-1 tvg-id="TNT FHD" tvg-name="TNT 1080" tvg-logo="http://psxbyzlogos.one/iconos/tnthd.png" group-title="España",TNT 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/74
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://psxbyzlogos.one/iconos/tnthd.png" group-title="España",TNT HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/75
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT" tvg-logo="http://psxbyzlogos.one/iconos/tntsd.png" group-title="España",TNT
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/76
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM 1080" tvg-logo="http://psxbyzlogos.one/iconos/tcmhd.png" group-title="España",TCM 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/77
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="http://psxbyzlogos.one/iconos/tcmhd.png" group-title="España",TCM HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/78
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM" tvg-logo="http://psxbyzlogos.one/iconos/tcmhd.png" group-title="España",TCM
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/79
+#EXTINF:-1 tvg-id="SYFY FHD" tvg-name="SyFy 1080" tvg-logo="http://psxbyzlogos.one/iconos/syfyhd.png" group-title="España",SyFy 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/80
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SyFy HD" tvg-logo="http://psxbyzlogos.one/iconos/syfyhd.png" group-title="España",SyFy HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/81
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SyFy" tvg-logo="http://psxbyzlogos.one/iconos/syfysd.png" group-title="España",SyFy
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/82
+#EXTINF:-1 tvg-id="COSMO FHD" tvg-name="Cosmo 1080" tvg-logo="http://psxbyzlogos.one/iconos/cosmohd.png" group-title="España",Cosmo 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/83
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="Cosmo HD" tvg-logo="http://psxbyzlogos.one/iconos/cosmohd.png" group-title="España",Cosmo HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/84
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="Cosmo" tvg-logo="http://psxbyzlogos.one/iconos/cosmosd.png" group-title="España",Cosmo
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/85
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="Comedy Central 1080" tvg-logo="http://psxbyzlogos.one/iconos/comedyhd.png" group-title="España",Comedy Central 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/87
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="Comedy central HD" tvg-logo="http://psxbyzlogos.one/iconos/comedyhd.png" group-title="España",Comedy central HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/86
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="Paramount" tvg-logo="http://psxbyzlogos.one/iconos/para.png" group-title="España",Paramount
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/88
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="Crismen & investigacion" tvg-logo="http://psxbyzlogos.one/iconos/crimen.png" group-title="España",Crismen & investigacion
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/89
+#EXTINF:-1 tvg-id="Somos" tvg-name="Somos 1080" tvg-logo="http://psxbyzlogos.one/iconos/somos.png" group-title="España",Somos 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/14471
+#EXTINF:-1 tvg-id="Somos" tvg-name="Somos" tvg-logo="http://psxbyzlogos.one/iconos/somos.png" group-title="España",Somos
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/90
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA 1080" tvg-logo="http://psxbyzlogos.one/iconos/megasd.png" group-title="España",MEGA 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/91
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="MEGA HD" tvg-logo="http://psxbyzlogos.one/iconos/megasd.png" group-title="España",MEGA HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/92
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="MEGA" tvg-logo="http://psxbyzlogos.one/iconos/megasd.png" group-title="España",MEGA
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/93
+#EXTINF:-1 tvg-id="NEOX FHD" tvg-name="Neox 1080" tvg-logo="http://psxbyzlogos.one/iconos/neox.png" group-title="España",Neox 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/94
+#EXTINF:-1 tvg-id="NEOX" tvg-name="Neox" tvg-logo="http://psxbyzlogos.one/iconos/neox.png" group-title="España",Neox
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/95
+#EXTINF:-1 tvg-id="NOVA FHD" tvg-name="Nova 1080" tvg-logo="http://psxbyzlogos.one/iconos/nova.png" group-title="España",Nova 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/96
+#EXTINF:-1 tvg-id="NOVA" tvg-name="Nova" tvg-logo="http://psxbyzlogos.one/iconos/nova.png" group-title="España",Nova
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/97
+#EXTINF:-1 tvg-id="FDF" tvg-name="FDF" tvg-logo="http://psxbyzlogos.one/iconos/fdf.png" group-title="España",FDF
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/98
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="Energy" tvg-logo="http://psxbyzlogos.one/iconos/energy.png" group-title="España",Energy
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/99
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="Be Mad 1080" tvg-logo="http://psxbyzlogos.one/iconos/bemadhd.png" group-title="España",Be Mad 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/100
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="Be Mad HD" tvg-logo="http://psxbyzlogos.one/iconos/bemadhd.png" group-title="España",Be Mad HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/101
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="Be Mad" tvg-logo="http://psxbyzlogos.one/iconos/bemadhd.png" group-title="España",Be Mad
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/102
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="DMAX" tvg-logo="http://psxbyzlogos.one/iconos/dmax.png" group-title="España",DMAX
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/103
+#EXTINF:-1 tvg-id="dark.es" tvg-name="Dark FHD (Pruebas)" tvg-logo="http://psxbyzlogos.one/iconos/dark.png" group-title="España",Dark FHD (Pruebas)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/12179
+#EXTINF:-1 tvg-id="Dark" tvg-name="Dark" tvg-logo="http://psxbyzlogos.one/iconos/dark.png" group-title="España",Dark
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/104
+#EXTINF:-1 tvg-id="extremeteuve.es" tvg-name="XTRM 1080" tvg-logo="http://psxbyzlogos.one/iconos/xtrm.png" group-title="España",XTRM 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/105
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD" tvg-logo="http://psxbyzlogos.one/iconos/xtrm.png" group-title="España",XTRM HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/106
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM" tvg-logo="http://psxbyzlogos.one/iconos/xtrm.png" group-title="España",XTRM
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/107
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="Blaze 1080" tvg-logo="http://psxbyzlogos.one/iconos/blazehd.png" group-title="España",Blaze 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/108
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="Blaze" tvg-logo="http://psxbyzlogos.one/iconos/blazehd.png" group-title="España",Blaze
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/109
+#EXTINF:-1 tvg-id="Garage TV" tvg-name="Garage TV 1080" tvg-logo="https://pbs.twimg.com/media/DlMqfLZX4AEw88p.png" group-title="España",Garage TV 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/110
+#EXTINF:-1 tvg-id="Garage TV" tvg-name="Garage TV" tvg-logo="https://pbs.twimg.com/media/DlMqfLZX4AEw88p.png" group-title="España",Garage TV
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/111
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="Discovery 1080" tvg-logo="http://psxbyzlogos.one/iconos/discoverysd.png" group-title="España",Discovery 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/112
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="Discovery" tvg-logo="http://psxbyzlogos.one/iconos/discoverysd.png" group-title="España",Discovery
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/114
+#EXTINF:-1 tvg-id="ten.es" tvg-name="Ten" tvg-logo="http://psxbyzlogos.one/iconos/ten.png" group-title="España",Ten
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/115
+#EXTINF:-1 tvg-id="VIAJAR FHD" tvg-name="Viajar 1080" tvg-logo="http://psxbyzlogos.one/iconos/viajarsd.png" group-title="España",Viajar 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/116
+#EXTINF:-1 tvg-id="VIAJAR FHD" tvg-name="Viajar HD" tvg-logo="http://psxbyzlogos.one/iconos/viajarsd.png" group-title="España",Viajar HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/117
+#EXTINF:-1 tvg-id="VIAJAR HD" tvg-name="Viajar" tvg-logo="http://psxbyzlogos.one/iconos/viajarsd.png" group-title="España",Viajar
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/118
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="Historia 1080" tvg-logo="http://psxbyzlogos.one/iconos/historiasd.png" group-title="España",Historia 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/119
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="Historia HD" tvg-logo="http://psxbyzlogos.one/iconos/historiasd.png" group-title="España",Historia HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/120
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="Historia" tvg-logo="http://psxbyzlogos.one/iconos/historiasd.png" group-title="España",Historia
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/121
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY" tvg-logo="http://psxbyzlogos.one/iconos/divinity.png" group-title="España",DIVINITY
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/122
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="De Casa 1080" tvg-logo="http://psxbyzlogos.one/iconos/decasa.png" group-title="España",De Casa 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/123
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="De Casa HD" tvg-logo="http://psxbyzlogos.one/iconos/decasa.png" group-title="España",De Casa HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/124
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="De Casa" tvg-logo="http://psxbyzlogos.one/iconos/decasa.png" group-title="España",De Casa
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/125
+#EXTINF:-1 tvg-id="CANAL COCINA FHD" tvg-name="Canal cocina 4k UHD (pruebas)" tvg-logo="http://psxbyzlogos.one/iconos/cocina.png" group-title="España",Canal cocina 4k UHD (pruebas)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/25197
+#EXTINF:-1 tvg-id="CANAL COCINA FHD" tvg-name="Canal cocina 1080" tvg-logo="http://psxbyzlogos.one/iconos/cocina.png" group-title="España",Canal cocina 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/126
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="Canal Cocina" tvg-logo="http://psxbyzlogos.one/iconos/cocina.png" group-title="España",Canal Cocina
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/128
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="Odisea 4k UHD (Pruebas)" tvg-logo="http://psxbyzlogos.one/iconos/odiseahd.png" group-title="España",Odisea 4k UHD (Pruebas)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/25198
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="Odisea 1080" tvg-logo="http://psxbyzlogos.one/iconos/odiseahd.png" group-title="España",Odisea 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/129
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="Odisea HD" tvg-logo="http://psxbyzlogos.one/iconos/odiseahd.png" group-title="España",Odisea HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/130
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="Odisea" tvg-logo="http://psxbyzlogos.one/iconos/odiseahd.png" group-title="España",Odisea
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/131
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="Nat Geo 1080" tvg-logo="http://psxbyzlogos.one/iconos/natgeosd.png" group-title="España",Nat Geo 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/132
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="Nat Geo HD" tvg-logo="http://psxbyzlogos.one/iconos/natgeosd.png" group-title="España",Nat Geo HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/133
+#EXTINF:-1 tvg-id="NAT GEO" tvg-name="Nat Geo" tvg-logo="http://psxbyzlogos.one/iconos/natgeosd.png" group-title="España",Nat Geo
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/134
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NatGeo Wild 1080" tvg-logo="http://psxbyzlogos.one/iconos/natgeowsd.png" group-title="España",NatGeo Wild 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/135
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="NatGeo Wild HD" tvg-logo="http://psxbyzlogos.one/iconos/natgeowsd.png" group-title="España",NatGeo Wild HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/136
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NatGeo Wild" tvg-logo="http://psxbyzlogos.one/iconos/natgeowsd.png" group-title="España",NatGeo Wild
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/137
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="Caza y Pesca 1080" tvg-logo="http://psxbyzlogos.one/iconos/cazpessd.png" group-title="España",Caza y Pesca 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/138
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="Caza y Pesca HD" tvg-logo="http://psxbyzlogos.one/iconos/cazpessd.png" group-title="España",Caza y Pesca HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/139
+#EXTINF:-1 tvg-id="CAZAyPESCA" tvg-name="Caza y Pesca" tvg-logo="http://psxbyzlogos.one/iconos/cazpessd.png" group-title="España",Caza y Pesca
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/140
+#EXTINF:-1 tvg-id="Cazavision" tvg-name="CazaVision" tvg-logo="http://psxbyzlogos.one/iconos/cazavision.png" group-title="España",CazaVision
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/141
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="Iberalia 1080" tvg-logo="http://psxbyzlogos.one/iconos/iberalia.png" group-title="España",Iberalia 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/14470
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="Iberalia" tvg-logo="http://psxbyzlogos.one/iconos/iberalia.png" group-title="España",Iberalia
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/142
+#EXTINF:-1 tvg-id="" tvg-name="Torolé 1080" tvg-logo="http://www.torole.tv/img/logo.png" group-title="España",Torolé 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/14473
+#EXTINF:-1 tvg-id="toros.es" tvg-name="Canal Toros 1080" tvg-logo="http://psxbyzlogos.one/iconos/torossd.png" group-title="España",Canal Toros 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/143
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="Canal Toros HD" tvg-logo="http://psxbyzlogos.one/iconos/torossd.png" group-title="España",Canal Toros HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/144
+#EXTINF:-1 tvg-id="TOROS" tvg-name="Canal Toros" tvg-logo="http://psxbyzlogos.one/iconos/torossd.png" group-title="España",Canal Toros
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/145
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick Jr" tvg-logo="http://psxbyzlogos.one/iconos/nickjr.png" group-title="España",Nick Jr
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/148
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby TV" tvg-logo="http://psxbyzlogos.one/iconos/babytv.png" group-title="España",Baby TV
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/149
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="Panda" tvg-logo="http://psxbyzlogos.one/iconos/panda.png" group-title="España",Panda
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/150
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="Clan TV 1080" tvg-logo="http://psxbyzlogos.one/iconos/clanhd.png" group-title="España",Clan TV 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/151
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="Clan TV HD" tvg-logo="http://psxbyzlogos.one/iconos/clanhd.png" group-title="España",Clan TV HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/152
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="Clan TV" tvg-logo="http://psxbyzlogos.one/iconos/clansd.png" group-title="España",Clan TV
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/153
+#EXTINF:-1 tvg-id="BOING" tvg-name="Boing" tvg-logo="http://psxbyzlogos.one/iconos/boing.png" group-title="España",Boing
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/154
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="Disney Channel 1080" tvg-logo="http://psxbyzlogos.one/iconos/disneychannel.png" group-title="España",Disney Channel 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/155
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="Disney Channel HD" tvg-logo="http://psxbyzlogos.one/iconos/disneychannel.png" group-title="España",Disney Channel HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/156
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="Disney Channel" tvg-logo="http://psxbyzlogos.one/iconos/disneychannel.png" group-title="España",Disney Channel
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/157
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="Disney Jr" tvg-logo="http://psxbyzlogos.one/iconos/disneyjr.png" group-title="España",Disney Jr
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/158
+#EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="Nickelodeon 1080" tvg-logo="http://psxbyzlogos.one/iconos/nickhd.png" group-title="España",Nickelodeon 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/160
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="Nickelodeon HD" tvg-logo="http://psxbyzlogos.one/iconos/nickhd.png" group-title="España",Nickelodeon HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/161
+#EXTINF:-1 tvg-id="" tvg-name="PEPA PIG 24H" tvg-logo="" group-title="España",PEPA PIG 24H
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/18370
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Infantil" tvg-logo="https://www.elreinoinfantil.com/skins/reino_v1/desktop/imgs/logo.png" group-title="España",El Reino Infantil
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/28491
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="Mezzo Live 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="España",Mezzo Live 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/162
+#EXTINF:-1 tvg-id="MEZZO LIVE HD" tvg-name="Mezzo Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="España",Mezzo Live HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/163
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="Sundance 1080" tvg-logo="http://psxbyzlogos.one/iconos/sundancehd.png" group-title="España",Sundance 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/164
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="Sundance HD" tvg-logo="http://psxbyzlogos.one/iconos/sundancehd.png" group-title="España",Sundance HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/165
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="http://psxbyzlogos.one/iconos/DKiss.png" group-title="España",DKISS
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/166
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV España  HD 1080" tvg-logo="http://psxbyzlogos.one/iconos/mtves.png" group-title="España",MTV España  HD 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/167
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="MTV SPAIN" tvg-logo="http://psxbyzlogos.one/iconos/mtves.png" group-title="España",MTV SPAIN
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/168
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="España",VH1
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/170
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="Telemadrid HD" tvg-logo="http://psxbyzlogos.one/iconos/telemadrid.png" group-title="España",Telemadrid HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/181
+#EXTINF:-1 tvg-id="CANARIA" tvg-name="TV CANARIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tercer_logo_TVC.png" group-title="España",TV CANARIA
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/26625
+#EXTINF:-1 tvg-id="ARAGON TV INT" tvg-name="Aragón tv" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest?cb=20151111060221" group-title="España",Aragón tv
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/26302
+#EXTINF:-1 tvg-id="" tvg-name="El correo Andalucia" tvg-logo="https://pbs.twimg.com/profile_images/537552979633532929/p2RYwEgo.jpeg" group-title="España",El correo Andalucia
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/18371
+#EXTINF:-1 tvg-id="" tvg-name="Condavision" tvg-logo="https://www.bonaresdigital.es/wp-content/uploads/2011/02/condavision1-1024x246.png" group-title="España",Condavision
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/20477
+#EXTINF:-1 tvg-id="" tvg-name="7tv Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/7TV-Andaluc%C3%ADa-en-directo.png" group-title="España",7tv Andalucía
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/14367
+#EXTINF:-1 tvg-id="TRECE" tvg-name="13 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/13_TV.svg" group-title="España",13 TV
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/176
+#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="TV3 1080" tvg-logo="http://psxbyzlogos.one/iconos/tv3.png" group-title="España",TV3 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/177
+#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="TV3 HD" tvg-logo="http://psxbyzlogos.one/iconos/tv3.png" group-title="España",TV3 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/178
+#EXTINF:-1 tvg-id="ETB 1" tvg-name="ETB 1 HD" tvg-logo="http://psxbyzlogos.one/iconos/etb1.png" group-title="España",ETB 1 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/179
+#EXTINF:-1 tvg-id="ETB 2" tvg-name="ETB 2 HD" tvg-logo="http://psxbyzlogos.one/iconos/etb2.png" group-title="España",ETB 2 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/180
+#EXTINF:-1 tvg-id="Onda Cádiz" tvg-name="Onda Cadiz" tvg-logo="http://psxbyzlogos.one/iconos/onda.png" group-title="España",Onda Cadiz
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/182
+#EXTINF:-1 tvg-id="IB3 HD" tvg-name="IB3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ca/7/7e/Ib3_logo2008-1.png" group-title="España",IB3 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/183
+#EXTINF:-1 tvg-id="TVGA" tvg-name="Galicia TV" tvg-logo="http://psxbyzlogos.one/iconos/tvgalicia.png" group-title="España",Galicia TV
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/184
+#EXTINF:-1 tvg-id="" tvg-name="El Punt Avui" tvg-logo="https://www.elpuntavui.cat/templates/d2015/images/logo-elpuntavui-4.png" group-title="España",El Punt Avui
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/185
+#EXTINF:-1 tvg-id="CMM" tvg-name="Castilla la Mancha" tvg-logo="http://psxbyzlogos.one/iconos/cmtv.png" group-title="España",Castilla la Mancha
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/186
+#EXTINF:-1 tvg-id="U-BEAT" tvg-name="IGN (E-sport)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/U-Beat.svg/2484px-U-Beat.svg.png" group-title="España",IGN (E-sport)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/25221
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-name="Movistar LaLiga 1080" tvg-logo="http://psxbyzlogos.one/iconos/MLIGA.png" group-title="España",Movistar LaLiga 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/190
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-name="Movistar LaLiga 1080(B)" tvg-logo="http://psxbyzlogos.one/iconos/MLIGA.png" group-title="España",Movistar LaLiga 1080(B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2198
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="Movistar LaLiga HD" tvg-logo="http://psxbyzlogos.one/iconos/MLIGA.png" group-title="España",Movistar LaLiga HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/191
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="Movistar LaLiga HD (B)" tvg-logo="http://psxbyzlogos.one/iconos/MLIGA.png" group-title="España",Movistar LaLiga HD (B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2197
+#EXTINF:-1 tvg-id="M. LaLiga" tvg-name="Movistar LaLiga" tvg-logo="http://psxbyzlogos.one/iconos/MLIGA.png" group-title="España",Movistar LaLiga
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/192
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="La Liga Tv Bar" tvg-logo="http://psxbyzlogos.one/iconos/laligahd.png" group-title="España",La Liga Tv Bar
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/189
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-name="Movistar Liga de Campeones 1080 6Mb" tvg-logo="http://psxbyzlogos.one/iconos/champhd.png" group-title="España",Movistar Liga de Campeones 1080 6Mb
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/14110
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="Movistar Liga De Campeones 1080" tvg-logo="http://psxbyzlogos.one/iconos/champhd.png" group-title="España",Movistar Liga De Campeones 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/193
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-name="Movistar Liga de Campeones 1080 (B)" tvg-logo="http://psxbyzlogos.one/iconos/champhd.png" group-title="España",Movistar Liga de Campeones 1080 (B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/14109
+#EXTINF:-1 tvg-id="M.LCAMPEONES FHD#" tvg-name="Movistar Liga de Campeones 1080 (C)" tvg-logo="http://psxbyzlogos.one/iconos/champhd.png" group-title="España",Movistar Liga de Campeones 1080 (C)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/106131
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-name="Movistar Liga De Campeones HD" tvg-logo="http://psxbyzlogos.one/iconos/champhd.png" group-title="España",Movistar Liga De Campeones HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/194
+#EXTINF:-1 tvg-id="M.LCAMPEONES" tvg-name="Movistar Liga Campeones" tvg-logo="http://psxbyzlogos.one/iconos/champhd.png" group-title="España",Movistar Liga Campeones
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/195
+#EXTINF:-1 tvg-id="Futbol Replay" tvg-name="Futbol Replay" tvg-logo="http://psxbyzlogos.one/iconos/FUTREP.png" group-title="España",Futbol Replay
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/196
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="#Vamos 1080" tvg-logo="http://psxbyzlogos.one/iconos/vamos.png" group-title="España",#Vamos 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/197
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="#Vamos  HD" tvg-logo="http://psxbyzlogos.one/iconos/vamos.png" group-title="España",#Vamos  HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/198
+#EXTINF:-1 tvg-id="#VAMOS" tvg-name="#Vamos" tvg-logo="http://psxbyzlogos.one/iconos/vamos.png" group-title="España",#Vamos
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/199
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="Movistar F1 1080" tvg-logo="http://psxbyzlogos.one/iconos/mf1.png" group-title="España",Movistar F1 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/200
+#EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-name="Movistar F1 HD" tvg-logo="http://psxbyzlogos.one/iconos/mf1.png" group-title="España",Movistar F1 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/201
+#EXTINF:-1 tvg-id="M.FORMULA1" tvg-name="Movistar F1" tvg-logo="http://psxbyzlogos.one/iconos/mf1.png" group-title="España",Movistar F1
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/202
+#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL 1080" tvg-logo="http://psxbyzlogos.one/iconos/gol.png" group-title="España",GOL 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/203
+#EXTINF:-1 tvg-id="GOL HD" tvg-name="GOL HD" tvg-logo="http://psxbyzlogos.one/iconos/gol.png" group-title="España",GOL HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/204
+#EXTINF:-1 tvg-id="GOL" tvg-name="GOL" tvg-logo="http://psxbyzlogos.one/iconos/gol.png" group-title="España",GOL
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/205
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="Movistar Deportes 1080" tvg-logo="http://psxbyzlogos.one/iconos/deportes.png" group-title="España",Movistar Deportes 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/206
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="Movistar Deportes HD" tvg-logo="http://psxbyzlogos.one/iconos/deportes.png" group-title="España",Movistar Deportes HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/207
+#EXTINF:-1 tvg-id="M. DEPORTES" tvg-name="Movistar Deportes" tvg-logo="http://psxbyzlogos.one/iconos/deportes.png" group-title="España",Movistar Deportes
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/208
+#EXTINF:-1 tvg-id="movistardeportes1.es" tvg-name="Movistar Deportes 1 1080" tvg-logo="http://psxbyzlogos.one/iconos/mdep1.png" group-title="España",Movistar Deportes 1 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/209
+#EXTINF:-1 tvg-id="M.DEPORTES 1 HD" tvg-name="Movistar Deportes 1 HD" tvg-logo="http://psxbyzlogos.one/iconos/mdep1.png" group-title="España",Movistar Deportes 1 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/210
+#EXTINF:-1 tvg-id="M.DEPORTES 1 HD" tvg-name="Movistar Deportes 1" tvg-logo="http://psxbyzlogos.one/iconos/mdep1.png" group-title="España",Movistar Deportes 1
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/211
+#EXTINF:-1 tvg-id="M. GOLF FHD" tvg-name="Movistar Golf 1080" tvg-logo="http://psxbyzlogos.one/iconos/mgolf.png" group-title="España",Movistar Golf 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/212
+#EXTINF:-1 tvg-id="M. GOLF FHD" tvg-name="Movistar Golf HD" tvg-logo="http://psxbyzlogos.one/iconos/mgolf.png" group-title="España",Movistar Golf HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/213
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="Movistar Golf" tvg-logo="http://psxbyzlogos.one/iconos/mgolf.png" group-title="España",Movistar Golf
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/214
+#EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="Real Madrid TV 1080" tvg-logo="http://psxbyzlogos.one/iconos/realmadridtv.png" group-title="España",Real Madrid TV 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/215
+#EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="Real Madrid TV HD" tvg-logo="http://psxbyzlogos.one/iconos/realmadridtv.png" group-title="España",Real Madrid TV HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/216
+#EXTINF:-1 tvg-id="BARCA TV" tvg-name="Barça Tv 1080" tvg-logo="http://psxbyzlogos.one/iconos/barcatv.png" group-title="España",Barça Tv 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/14472
+#EXTINF:-1 tvg-id="BARCA TV" tvg-name="Barça TV" tvg-logo="http://psxbyzlogos.one/iconos/barcatv.png" group-title="España",Barça TV
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/217
+#EXTINF:-1 tvg-id="SEVILLAFC TV" tvg-name="Sevilla Fc" tvg-logo="http://psxbyzlogos.one/iconos/sfctv.png" group-title="España",Sevilla Fc
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/218
+#EXTINF:-1 tvg-id="Betis TV HD" tvg-name="Betis Tv" tvg-logo="http://psxbyzlogos.one/iconos/betimalo.png" group-title="España",Betis Tv
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/219
+#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-name="Teledeporte HD" tvg-logo="http://psxbyzlogos.one/iconos/teledeporte.png" group-title="España",Teledeporte HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/220
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="Teledeporte" tvg-logo="http://psxbyzlogos.one/iconos/teledeporte.png" group-title="España",Teledeporte
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/221
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="Esport 3" tvg-logo="http://psxbyzlogos.one/iconos/esport3.png" group-title="España",Esport 3
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/222
+#EXTINF:-1 tvg-id="EUROSPORT1 FHD#" tvg-name="Eurosport 1080" tvg-logo="http://psxbyzlogos.one/iconos/eurosportsd.png" group-title="España",Eurosport 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/223
+#EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-name="Eurosport HD" tvg-logo="http://psxbyzlogos.one/iconos/eurosportsd.png" group-title="España",Eurosport HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/224
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="Eurosport 2 SD" tvg-logo="http://psxbyzlogos.one/iconos/eurosport2.png" group-title="España",Eurosport 2 SD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/226
+#EXTINF:-1 tvg-id="M. LaLiga 1 FHD" tvg-name="Movistar LaLiga 1 1080" tvg-logo="http://psxbyzlogos.one/iconos/MLIG1.png" group-title="España",Movistar LaLiga 1 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/227
+#EXTINF:-1 tvg-id="M. LaLiga 1 FHD" tvg-name="Movistar LaLiga 1 1080 (B)" tvg-logo="http://psxbyzlogos.one/iconos/MLIG1.png" group-title="España",Movistar LaLiga 1 1080 (B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2208
+#EXTINF:-1 tvg-id="M. LaLiga 1 HD" tvg-name="Movistar LaLiga 1" tvg-logo="http://psxbyzlogos.one/iconos/MLIG1.png" group-title="España",Movistar LaLiga 1
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/228
+#EXTINF:-1 tvg-id="M. LaLiga 2 FHD" tvg-name="Movistar LaLiga 2 1080" tvg-logo="http://psxbyzlogos.one/iconos/MLIG2.png" group-title="España",Movistar LaLiga 2 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/229
+#EXTINF:-1 tvg-id="M. LaLiga 2 FHD" tvg-name="Movistar LaLiga 2 1080 (B)" tvg-logo="http://psxbyzlogos.one/iconos/MLIG2.png" group-title="España",Movistar LaLiga 2 1080 (B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2196
+#EXTINF:-1 tvg-id="M. LaLiga 2 HD" tvg-name="Movistar LaLiga 2" tvg-logo="http://psxbyzlogos.one/iconos/MLIG2.png" group-title="España",Movistar LaLiga 2
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/230
+#EXTINF:-1 tvg-id="M. LaLiga 7 FHD" tvg-name="Movistar LaLiga 7 1080" tvg-logo="http://psxbyzlogos.one/iconos/MLIG7.png" group-title="España",Movistar LaLiga 7 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2200
+#EXTINF:-1 tvg-id="M. LaLiga 3 FHD" tvg-name="Movistar LaLiga 3 1080" tvg-logo="http://psxbyzlogos.one/iconos/MLIG3.png" group-title="España",Movistar LaLiga 3 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/231
+#EXTINF:-1 tvg-id="M. LaLiga 3 FHD" tvg-name="Movistar LaLiga 3 1080 (B)" tvg-logo="http://psxbyzlogos.one/iconos/MLIG3.png" group-title="España",Movistar LaLiga 3 1080 (B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2204
+#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-name="Movistar LaLiga 3" tvg-logo="http://psxbyzlogos.one/iconos/MLIG3.png" group-title="España",Movistar LaLiga 3
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/232
+#EXTINF:-1 tvg-id="M. LaLiga 4 FHD" tvg-name="Movistar LaLiga 4 1080" tvg-logo="http://psxbyzlogos.one/iconos/MLIG4.png" group-title="España",Movistar LaLiga 4 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/233
+#EXTINF:-1 tvg-id="M. LaLiga 4 FHD" tvg-name="Movistar LaLiga 4 1080 (B)" tvg-logo="http://psxbyzlogos.one/iconos/MLIG4.png" group-title="España",Movistar LaLiga 4 1080 (B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2203
+#EXTINF:-1 tvg-id="M. LaLiga 4" tvg-name="Movistar LaLiga 4" tvg-logo="http://psxbyzlogos.one/iconos/MLIG4.png" group-title="España",Movistar LaLiga 4
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/234
+#EXTINF:-1 tvg-id="M. LaLiga 5 FHD" tvg-name="Movistar LaLiga 5 1080" tvg-logo="http://psxbyzlogos.one/iconos/MLIG5.png" group-title="España",Movistar LaLiga 5 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/235
+#EXTINF:-1 tvg-id="M. LaLiga 5 FHD" tvg-name="Movistar LaLiga 5 1080 (B)" tvg-logo="http://psxbyzlogos.one/iconos/MLIG5.png" group-title="España",Movistar LaLiga 5 1080 (B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2202
+#EXTINF:-1 tvg-id="M. LaLiga 5" tvg-name="Movistar LaLiga 5" tvg-logo="http://psxbyzlogos.one/iconos/MLIG5.png" group-title="España",Movistar LaLiga 5
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/236
+#EXTINF:-1 tvg-id="M. LaLiga 6 FHD" tvg-name="Movistar LaLiga 6 1080" tvg-logo="http://psxbyzlogos.one/iconos/MLIG6.png" group-title="España",Movistar LaLiga 6 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/237
+#EXTINF:-1 tvg-id="M. LaLiga 6 FHD" tvg-name="Movistar LaLiga 6 1080 (B)" tvg-logo="http://psxbyzlogos.one/iconos/MLIG6.png" group-title="España",Movistar LaLiga 6 1080 (B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2201
+#EXTINF:-1 tvg-id="M. LaLiga 6" tvg-name="Movistar LaLiga 6" tvg-logo="http://psxbyzlogos.one/iconos/MLIG6.png" group-title="España",Movistar LaLiga 6
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/238
+#EXTINF:-1 tvg-id="M. LaLiga 7" tvg-name="Movistar LaLiga 7" tvg-logo="http://psxbyzlogos.one/iconos/MLIG7.png" group-title="España",Movistar LaLiga 7
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/239
+#EXTINF:-1 tvg-id="M. LaLiga 8" tvg-name="Movistar LaLiga 8" tvg-logo="http://psxbyzlogos.one/iconos/MLIG8.png" group-title="España",Movistar LaLiga 8
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/240
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 9" tvg-logo="" group-title="España",Movistar LaLiga 9
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2199
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 10" tvg-logo="" group-title="España",Movistar LaLiga 10
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2207
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones" tvg-logo="" group-title="España",M. Liga de Campeones
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2217
+#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M. Liga de Campeones 1 1080" tvg-logo="http://psxbyzlogos.one/iconos/champ1.png" group-title="España",M. Liga de Campeones 1 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2216
+#EXTINF:-1 tvg-id="LIGA CAMPEONES 1 FHD" tvg-name="M. Liga De Campeones 1 1080 (B)" tvg-logo="http://psxbyzlogos.one/iconos/champ1.png" group-title="España",M. Liga De Campeones 1 1080 (B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/241
+#EXTINF:-1 tvg-id="M.LCAMPEON1 FHD" tvg-name="M. Liga de Campeones 1 1080 (C)" tvg-logo="http://psxbyzlogos.one/iconos/champ1.png" group-title="España",M. Liga de Campeones 1 1080 (C)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/106132
+#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M. Liga de Campeones 1 HD" tvg-logo="http://psxbyzlogos.one/iconos/champ1.png" group-title="España",M. Liga de Campeones 1 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2215
+#EXTINF:-1 tvg-id="M.LCAMPEON2 FHD" tvg-name="M. Liga De Campeones 2 1080" tvg-logo="http://psxbyzlogos.one/iconos/champ2.png" group-title="España",M. Liga De Campeones 2 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/243
+#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M. Liga de Campeones 2 1080 (B)" tvg-logo="http://psxbyzlogos.one/iconos/champ2.png" group-title="España",M. Liga de Campeones 2 1080 (B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2214
+#EXTINF:-1 tvg-id="M.LCAMPEON2 FHD" tvg-name="M. Liga de Campeones 2 1080 (C)" tvg-logo="http://psxbyzlogos.one/iconos/champ2.png" group-title="España",M. Liga de Campeones 2 1080 (C)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/106133
+#EXTINF:-1 tvg-id="M.LCAMPEON2 FHD" tvg-name="M. Liga de Campeones 2 HD" tvg-logo="http://psxbyzlogos.one/iconos/champ2.png" group-title="España",M. Liga de Campeones 2 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2213
+#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M. Liga De Campeones 2" tvg-logo="http://psxbyzlogos.one/iconos/champ2.png" group-title="España",M. Liga De Campeones 2
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/244
+#EXTINF:-1 tvg-id="M.LCAMPEON3 FHD" tvg-name="M. Liga de Campeones 3 1080" tvg-logo="http://psxbyzlogos.one/iconos/champ3.png" group-title="España",M. Liga de Campeones 3 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2212
+#EXTINF:-1 tvg-id="M.LCAMPEON3 FHD" tvg-name="M.Liga de Campeones 3 1080 (B)" tvg-logo="http://psxbyzlogos.one/iconos/champ3.png" group-title="España",M.Liga de Campeones 3 1080 (B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/245
+#EXTINF:-1 tvg-id="M.LCAMPEON3 FHD" tvg-name="M. Liga de Campeones 3 1080 (C)" tvg-logo="http://psxbyzlogos.one/iconos/champ3.png" group-title="España",M. Liga de Campeones 3 1080 (C)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2211
+#EXTINF:-1 tvg-id="M.LCAMPEON3" tvg-name="M. Liga De Campeones 3 SD" tvg-logo="http://psxbyzlogos.one/iconos/champ3.png" group-title="España",M. Liga De Campeones 3 SD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/246
+#EXTINF:-1 tvg-id="M.LCAMPEON4 FHD" tvg-name="M. Liga de Campeones 4 1080" tvg-logo="http://psxbyzlogos.one/iconos/champ4.png" group-title="España",M. Liga de Campeones 4 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2210
+#EXTINF:-1 tvg-id="M.LCAMPEON4 FHD" tvg-name="M. Liga de Campeones 4 1080 (B)" tvg-logo="http://psxbyzlogos.one/iconos/champ4.png" group-title="España",M. Liga de Campeones 4 1080 (B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/106134
+#EXTINF:-1 tvg-id="M.LCAMPEON4 FHD" tvg-name="M. Liga de Campeones 4 HD" tvg-logo="http://psxbyzlogos.one/iconos/champ4.png" group-title="España",M. Liga de Campeones 4 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2209
+#EXTINF:-1 tvg-id="M.LCAMPEON4" tvg-name="M.Liga de Campeones 4" tvg-logo="http://psxbyzlogos.one/iconos/champ4.png" group-title="España",M.Liga de Campeones 4
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/247
+#EXTINF:-1 tvg-id="M.LCAMPEON5" tvg-name="M.Liga de Campeones 5" tvg-logo="http://psxbyzlogos.one/iconos/champ.png" group-title="España",M.Liga de Campeones 5
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/248
+#EXTINF:-1 tvg-id="M.LCAMPEON5" tvg-name="M. Liga De Campeones 5 sd" tvg-logo="http://psxbyzlogos.one/iconos/champ.png" group-title="España",M. Liga De Campeones 5 sd
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/249
+#EXTINF:-1 tvg-id="M.LCAMPEON6" tvg-name="M.Liga de Campeones 6" tvg-logo="http://psxbyzlogos.one/iconos/champ6.png" group-title="España",M.Liga de Campeones 6
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/250
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga De Campeones 6sd" tvg-logo="" group-title="España",M. Liga De Campeones 6sd
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/251
+#EXTINF:-1 tvg-id="M.LCAMPEON7" tvg-name="M.Liga de Campeones 7" tvg-logo="http://psxbyzlogos.one/iconos/champ7.png" group-title="España",M.Liga de Campeones 7
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/252
+#EXTINF:-1 tvg-id="M.LCAMPEON7" tvg-name="M. Liga De Campeones 7 sd" tvg-logo="http://psxbyzlogos.one/iconos/champ7.png" group-title="España",M. Liga De Campeones 7 sd
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/253
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga De Campeones 8" tvg-logo="http://psxbyzlogos.one/iconos/champ8.png" group-title="España",M. Liga De Campeones 8
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/254
+#EXTINF:-1 tvg-id="M. DEPORTES 2 FHD" tvg-name="Movistar Deportes 2" tvg-logo="http://psxbyzlogos.one/iconos/multi2.png" group-title="España",Movistar Deportes 2
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/255
+#EXTINF:-1 tvg-id="M. DEPORTES 3" tvg-name="Movistar Deportes 3" tvg-logo="http://psxbyzlogos.one/iconos/multi3.png" group-title="España",Movistar Deportes 3
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/256
+#EXTINF:-1 tvg-id="M. DEPORTES 4" tvg-name="Movistar Deportes 4" tvg-logo="http://psxbyzlogos.one/iconos/multi4.png" group-title="España",Movistar Deportes 4
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/257
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 7" tvg-logo="http://psxbyzlogos.one/iconos/multi7.png" group-title="España",Movistar Deportes 7
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/258
+#EXTINF:-1 tvg-id="M. DEPORTES 6" tvg-name="Movistar Deportes 6" tvg-logo="http://psxbyzlogos.one/iconos/multi6.png" group-title="España",Movistar Deportes 6
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/259
+#EXTINF:-1 tvg-id="M. DEPORTES 5" tvg-name="Movistar Deportes 5" tvg-logo="http://psxbyzlogos.one/iconos/multi5.png" group-title="España",Movistar Deportes 5
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/260
+#EXTINF:-1 tvg-id="M.DEPORTES 1 HD" tvg-name="Movistar Deportes 1 HD" tvg-logo="http://psxbyzlogos.one/iconos/mdep1.png" group-title="España",Movistar Deportes 1 HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2194
+#EXTINF:-1 tvg-id="M.DEPORTES 1 HD" tvg-name="Movistar Deportes 1 1080" tvg-logo="" group-title="España",Movistar Deportes 1 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2195
+#EXTINF:-1 tvg-id="Orange Series" tvg-name="Orange Series " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Orange_Series.svg/1280px-Orange_Series.svg.pngrue" group-title="España",Orange Series 
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/50
