@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-name="Movistar LaLiga 1080" tvg-logo="http://psxbyzlogos.one/iconos/MLIGA.png" group-title="España",Movistar LaLiga 1080
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/190
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-name="Movistar LaLiga 1080(B)" tvg-logo="http://psxbyzlogos.one/iconos/MLIGA.png" group-title="España",Movistar LaLiga 1080(B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2198
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="Movistar LaLiga HD" tvg-logo="http://psxbyzlogos.one/iconos/MLIGA.png" group-title="España",Movistar LaLiga HD
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/191
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="Movistar LaLiga HD (B)" tvg-logo="http://psxbyzlogos.one/iconos/MLIGA.png" group-title="España",Movistar LaLiga HD (B)
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/2197
+#EXTINF:-1 tvg-id="M. LaLiga" tvg-name="Movistar LaLiga" tvg-logo="http://psxbyzlogos.one/iconos/MLIGA.png" group-title="España",Movistar LaLiga
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/192
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="La Liga Tv Bar" tvg-logo="http://psxbyzlogos.one/iconos/laligahd.png" group-title="España",La Liga Tv Bar
+http://psxbyz.one:8880/jangel5/KPHmZjwKnJ/189
